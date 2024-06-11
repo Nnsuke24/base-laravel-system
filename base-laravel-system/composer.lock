@@ -2299,16 +2299,16 @@
         },
         {
             "name": "nnsuke24/php-library",
-            "version": "v1.0.0",
+            "version": "v1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Nnsuke24/php-library.git",
-                "reference": "f0525928c89ff14b331fc779be2e09b300ec169f"
+                "reference": "f59b0b2e975170364fad2efd892835f07c929e3b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Nnsuke24/php-library/zipball/f0525928c89ff14b331fc779be2e09b300ec169f",
-                "reference": "f0525928c89ff14b331fc779be2e09b300ec169f",
+                "url": "https://api.github.com/repos/Nnsuke24/php-library/zipball/f59b0b2e975170364fad2efd892835f07c929e3b",
+                "reference": "f59b0b2e975170364fad2efd892835f07c929e3b",
                 "shasum": ""
             },
             "require": {
@@ -2317,15 +2317,15 @@
             "type": "library",
             "autoload": {
                 "psr-4": {
-                    "Nnsuke24\\php-library\\": "src/"
+                    "Nnsuke24\\PhpLibrary\\": "src/"
                 }
             },
             "description": "Composer sample project",
             "support": {
-                "source": "https://github.com/Nnsuke24/php-library/tree/v1.0.0",
+                "source": "https://github.com/Nnsuke24/php-library/tree/v1.0.1",
                 "issues": "https://github.com/Nnsuke24/php-library/issues"
             },
-            "time": "2024-06-10T03:32:58+00:00"
+            "time": "2024-06-11T03:51:09+00:00"
         },
         {
             "name": "nunomaduro/termwind",
