@@ -16,6 +16,7 @@ services:
     build: ./docker/php-fpm
     volumes:
       - ./base-laravel-system:/var/www/html
+      - ./packages:/var/www/packages
       - ./docker/php-fpm/php.ini:/usr/local/etc/php/php.ini
 
   # MySQL
